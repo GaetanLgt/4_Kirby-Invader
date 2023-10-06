@@ -1,0 +1,162 @@
+html, body {
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  /*background-image: url('../img/fond.jpg');*/
+  background-size: cover;
+  overflow: hidden;
+  background-position: center;
+}
+
+.vaisseau1 {
+	background: url('../img/vaisseauonly.png') no-repeat -35px -70px;
+	width: 130px;
+	height: 102px;
+}
+
+.vaisseau2 {
+	background: url('../img/vaisseauonly.png') no-repeat -35px -318px;
+	width: 130px;
+	height: 134px;
+}
+
+.vaisseau3 {
+	background: url('../img/vaisseauonly.png') no-repeat -3px -566px;
+	width: 194px;
+	height: 134px;
+}
+
+.vaisseau4 {
+	background: url('../img/vaisseauonly.png') no-repeat 0 -802px;
+	width: 200px;
+	height: 166px;
+}
+
+.vaisseau5 {
+	background: url('../img/vaisseauonly.png') no-repeat -3px -1050px;
+	width: 194px;
+	height: 170px;
+}
+
+.vaisseau6 {
+	background: url('../img/vaisseauonly.png') no-repeat -51px -1330px;
+	width: 98px;
+	height: 138px;
+}
+.vaisseau7 {
+	background: url('../img/vaisseauonly.png') no-repeat -51px -1578px;
+	width: 98px;
+	height: 138px;
+}
+
+.vaisseau8 {
+	background: url('../img/vaisseauonly.png') no-repeat -3px -1862px;
+	width: 194px;
+	height: 130px;
+}
+
+.vaisseau9 {
+  background: url('../img/vaisseauonly.png') no-repeat 0 -2106px;
+	width: 200px;
+	height: 138px;
+}
+
+.vaisseau10 {
+	background: url('../img/vaisseauonly.png') no-repeat -51px -2386px;
+	width: 98px;
+	height: 86px;
+}
+
+.vaisseau11 {
+	background: url('../img/vaisseauonly.png') no-repeat 0 -2594px;
+	width: 200px;
+	height: 266px;
+}
+
+.vaisseau12 {
+	background: url('../img/vaisseauonly.png') no-repeat 0 -2978px;
+	width: 200px;
+	height: 258px;
+}
+
+.fire1 {
+	background: url('../img/fireonly.png') no-repeat -45px -167px;
+	width: 114px;
+	height: 54px;
+}
+
+.fire2 {
+	background: url('../img/fireonly.png') no-repeat -37px -415px;
+	width: 130px;
+	height: 66px;
+}
+
+.fire3 {
+	background: url('../img/fireonly.png') no-repeat -69px -695px;
+	width: 66px;
+	height: 66px;
+}
+
+.fire4 {
+	background: url('../img/fireonly.png') no-repeat -65px -951px;
+	width: 74px;
+	height: 66px;
+}
+
+.fire5 {
+	background: url('../img/fireonly.png') no-repeat -69px -1215px;
+	width: 66px;
+	height: 58px;
+}
+
+.fire6 {
+	background: url('../img/fireonly.png') no-repeat -85px -1463px;
+	width: 34px;
+	height: 66px;
+}
+
+.fire7 {
+	background: url('../img/fireonly.png') no-repeat -57px -1683px;
+	width: 90px;
+	height: 98px;
+}
+
+.fire8 {
+	background: url('../img/fireonly.png') no-repeat -41px -1955px;
+	width: 122px;
+	height: 86px;
+}
+
+.fire9 {
+	background: url('../img/fireonly.png') no-repeat -41px -2227px;
+	width: 122px;
+	height: 66px;
+}
+
+.fire10 {
+	background: url('../img/fireonly.png') no-repeat -93px -2471px;
+	width: 18px;
+	height: 54px;
+}
+
+.fire11 {
+	background: url('../img/fireonly.png') no-repeat -13px -2823px;
+	width: 178px;
+	height: 94px;
+}
+
+.fire12 {
+	background: url('../img/fireonly.png') no-repeat -65px -3207px;
+	width: 74px;
+	height: 66px;
+}
+
+.missileK {
+	background: url('../img/missileK.png') no-repeat -1px -1px;
+	width: 23px;
+	height: 47px;
+}
